@@ -1,3 +1,3 @@
-# simbot
+# Simbot-frontend
 
-[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/simbot)
+Aplicativo para la difusión de citas medicas usando twilio y bot nodejs
